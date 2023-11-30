@@ -1,0 +1,12 @@
+.top3-content {
+    max-width: 64rem;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.top3-content p {
+    margin-bottom: 2rem;
+}
